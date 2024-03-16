@@ -30,7 +30,7 @@
 }
 
 .logo{
-	color: green;
+	color: blue;
 	font-size: 40px;
 	font-family: Arial;
 	padding-left: 10px;
@@ -68,7 +68,7 @@ ul li a{
 }
 
 ul li a:hover{
-	color: green;
+	color: blue;
 }
 
 .search{
@@ -82,7 +82,7 @@ ul li a:hover{
 	width: 200px;
 	height: 40px;
 	background: transparent;
-	border: 1px solid green;
+	border: 1px solid blue;
 	margin-top: 13px;
 	color: white;
 	border-right: none;
@@ -94,14 +94,14 @@ ul li a:hover{
 }
 
 .srch::placeholder{
-    color: yellowgreen;
+    color: skyblue;
 }
 
 .btn{
 	width: 100px;
 	height: 40px;
-    background: green;
-    border: 2px solid green;
+    background: blue;
+    border: 2px solid blue;
     margin-top: 13px;
     color: #fff;
     font-size: 15px;
@@ -142,7 +142,7 @@ ul li a:hover{
 .content .cn{
     width: 160px;
     height: 40px;
-    background: green;
+    background: blue;
     border: none;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -160,7 +160,7 @@ ul li a:hover{
 }
 
 .content span{
-    color: green;
+    color: blue;
     font-size: 53px
 }
 
@@ -168,7 +168,7 @@ ul li a:hover{
 .btnn{
     width: 240px;
     height: 40px;
-    background: green;
+    background: blue;
     border: none;
     margin-top: 30px;
     font-size: 18px;
@@ -179,7 +179,7 @@ ul li a:hover{
 }
 .btnn:hover{
     background: #fff;
-    color: green;
+    color: blue;
 }
 .btnn a{
     text-decoration: none;
